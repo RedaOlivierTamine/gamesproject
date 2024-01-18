@@ -1,4 +1,3 @@
 # gamesproject
 test
 nasa
-satellite
